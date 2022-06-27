@@ -4,5 +4,5 @@
 
 .header,.section,.aside{
     border:2px solid #edf;
-    background-image: linear-gradient(to right, #edf, #acf, #edf );
+    background-image: linear-gradient(to right, #edf, #acf, #edf);
 }
